@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resource/style">
+        <file alias="flat.qss">resource/style/flat.qss</file>
+    </qresource>
+</RCC>
